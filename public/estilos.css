@@ -1,0 +1,16 @@
+.brackground-navbar { 
+  background-color: #FE9796;
+}
+.purple {
+  background-color: #FE9796;
+}
+
+.vintageFont{
+  font-size: 48px;
+  font-family: 'VT323', monospace;
+  color: #FFFFFF;
+}
+.lcdText{
+  font-family: 'LCD', sans-serif;
+  font-size: 16px
+}
